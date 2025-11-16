@@ -26,7 +26,7 @@ A modern React application built with Vite, Tailwind CSS, and React Router featu
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd Assignment
+   cd ...........
    npm install
    npm run dev
 
